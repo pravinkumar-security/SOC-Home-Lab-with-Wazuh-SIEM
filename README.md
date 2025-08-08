@@ -80,24 +80,7 @@ Designed to demonstrate **end-to-end SOC processes** — from agent deployment t
 ---
 ## 📸 Project Screenshots
 
-### 1️⃣ Wazuh Manager Dashboard
-Main overview of the Wazuh SIEM environment showing agents, alerts, and system health.
-![Wazuh Dashboard](screenshots/wazuh_dashboard.png)
+📸 [IMAGES](https://github.com/pravinkumar-security/SOC-Home-Lab-with-Wazuh-SIEM/tree/435f7c15e90091fc78b4c200b4e66a8bef68c522/Screenshots)
 
-### 2️⃣ File Integrity Monitoring (Windows Agent)
-Real-time detection of file changes on the monitored Windows endpoint.
-![FIM Windows](screenshots/fim_windows_alert.png)
-
-### 3️⃣ File Integrity Monitoring (Ubuntu Agent)
-Tracking changes in critical Linux directories such as `/etc` and `/var/log`.
-![FIM Ubuntu](screenshots/fim_ubuntu_alert.png)
-
-### 4️⃣ VirusTotal Integration Results
-Threat intelligence results from VirusTotal integration on suspicious file detection.
-![VirusTotal Results](screenshots/virustotal_results.png)
-
-### 5️⃣ Active Response in Action
-Automated deletion of malicious files triggered by Active Response on the Wazuh Manager.
-![Active Response](screenshots/active_response.png)
 
 
