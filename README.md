@@ -78,5 +78,5 @@ Designed to demonstrate **end-to-end SOC processes** — from agent deployment t
 - Developed strong **troubleshooting skills** for connectivity, agent registration, and module configurations  
 
 ---
-screenshots
+
 
